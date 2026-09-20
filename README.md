@@ -11,3 +11,5 @@ It is said that a transistor is a switch. But what does that actually mean? In r
 ## LAYER II.
 But where do those switches come into play? well - in logic gates. a transistor, just from what we found out about its workings in layer I is capable of building logic gates, or - expressions of logic. 
 <img width="1480" height="551" alt="image" src="https://github.com/user-attachments/assets/68ee7e9a-3fc2-4f7e-b7b9-c9ba5afddfa5" />
+In the image above (a screenshot from the video game CRUMBS), as you can see - the YES / BUFFER, NOT, AND, OR gates are constructed just by using 5 components: wires, resistors, buttons, LEDs and transistors. even though there is zero code or even a microcontroller 
+attached, we are able to manipulate the LEDs output just by switching the buttons. and we can do so in many types, like for example the LED being on if EITHER of the 2 buttons is ON (this is the OR gate), or only if BOTH are on (this is the AND gate). 
