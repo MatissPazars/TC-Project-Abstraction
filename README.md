@@ -8,4 +8,6 @@ Its easier to say than explain because if you would to ask most, they coudnt act
 ## LAYER I.
 It is said that a transistor is a switch. But what does that actually mean? In reality - a transistor works like this: it has 3 pins - emitter (E), base (B), collector (C). If B is powered, E emits power. In an NPN-type transistor, base has to be connected to VCC and it will then be combined with C to be emitted as E, whilst in an NPN transistor B is connected to GND and C is divided into B and E. In both types, B is allowed to be much lower than C, this multiple difference is referred to as Beta (β). 
 
+## LAYER II.
+But where do those switches come into play? well - in logic gates. a transistor, just from what we found out about its workings in layer I is capable of building logic gates, or - expressions of logic. 
 <img width="1480" height="551" alt="image" src="https://github.com/user-attachments/assets/68ee7e9a-3fc2-4f7e-b7b9-c9ba5afddfa5" />
