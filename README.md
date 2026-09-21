@@ -22,4 +22,8 @@ attached, we are able to manipulate the LEDs output just by switching the button
 
 >[!NOTE]
 >This repository has its files laregly overlapping with the one that includes all of my projects, I will be slowly migrating this project from that page to this one.
->
+
+## LAYER II.
+
+Now that we know how an logic gate works, we can quickly figure out that we can in fact stack and just scale them - the scale is the sole limit here. But stack them to form WHAT? More complex systems ofcourse. 
+But doing so with simple logic gates will be quite the tedious work and quite dificult to keep track of, so lets abstract them - lets introduce integrated circuitry (IC). What is an IC? it is basically, as the name suggests, a really small just *pod* or platform with pre-made logic and wiring so you dont have to wire your own electronic components. An IC is NOT able to do its own operations (as in - its NOT a computer) independently, its able to only do extremely basic logic operations such as simply holding multiple of the same logic gate, adding bits (fully possible with logic gates, stay tuned for this, I will talk later on about bit adders and these *fancy* ICs). 
