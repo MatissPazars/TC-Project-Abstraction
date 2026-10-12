@@ -1,4 +1,5 @@
 ## I bought a new camera and mat, so I will be able to now make much better looking images of the actual IRL builds. 
+## I will slowly be migrating / replacing the old images of the real world builds / circuitry with the ones captured with the new setup. 
 
 # TC-Project-Abstraction
 
