@@ -10,7 +10,8 @@ This is an dedicated repository just for the TC project of building of demonstra
 Everyone has heard of the famous saying "computers are just 1s and 0s" or "A computer is just a bunch of transistors", but ... what does that actually MEAN?? 
 Its easier to say than explain because if you would to ask most, they coudnt actually fully explain. Thus, here we will try to do just that - get to the full modern computer JUST from those same 1s and 0s and transistors. 
 
-
+<img width="1600" height="1201" alt="image" src="https://github.com/user-attachments/assets/a8eab7f7-7e79-4d9a-86de-d7baf2f231e1" />
+Everything we need to make an computer is right here in this image. 
 
 ## LAYER I.
 
