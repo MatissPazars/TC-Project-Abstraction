@@ -28,7 +28,9 @@ It is said that a transistor is a switch. But what does that actually mean? In r
 But where do those switches come into play? well - in logic gates. a transistor, just from what we found out about its workings in layer I is capable of building logic gates, or - expressions of logic. 
 <img width="1480" height="551" alt="image" src="https://github.com/user-attachments/assets/68ee7e9a-3fc2-4f7e-b7b9-c9ba5afddfa5" />
 
-https://github.com/user-attachments/assets/79345bb0-6c8b-495c-873f-901ea3426d7f
+https://github.com/user-attachments/assets/a1e50200-dacd-4242-9862-9e9cfaa7cb2e
+
+
 
 
 
