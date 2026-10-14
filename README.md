@@ -27,9 +27,10 @@ It is said that a transistor is a switch. But what does that actually mean? In r
 ## LAYER II.
 But where do those switches come into play? well - in logic gates. a transistor, just from what we found out about its workings in layer I is capable of building logic gates, or - expressions of logic. 
 <img width="1480" height="551" alt="image" src="https://github.com/user-attachments/assets/68ee7e9a-3fc2-4f7e-b7b9-c9ba5afddfa5" />
-[video.htm](https://github.com/user-attachments/files/33427218/video.htm)
 
-https://github.com/user-attachments/assets/d1086e2f-da95-49c0-aa3f-0bf963ad1d02
+https://github.com/user-attachments/assets/79345bb0-6c8b-495c-873f-901ea3426d7f
+
+
 
 
 
