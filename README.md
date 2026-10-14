@@ -13,7 +13,7 @@ Its easier to say than explain because if you would to ask most, they coudnt act
 <img width="1600" height="1201" alt="image" src="https://github.com/user-attachments/assets/a8eab7f7-7e79-4d9a-86de-d7baf2f231e1" />
 Everything we need to make an computer is right here in this image. 
 
-HOW MUCH OF ELECTRICAL ENGINEERING DO I NEED TO KNOW TO READ THIS?
+## HOW MUCH OF ELECTRICAL ENGINEERING DO I NEED TO KNOW TO READ THIS?
 Literally just 2 things: 1. Electrons, like humans, are lazy - they prefer low resistence. 2. Electricity only flows if the circuit is complete, i.e.  + is connected to -. otherwise, nothing happens. 
 
 
