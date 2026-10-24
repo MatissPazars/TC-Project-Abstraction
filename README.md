@@ -1,7 +1,7 @@
 >[!NOTE]
 > I bought a new camera stand and mat, so I will be able to now make much better looking images of the actual IRL builds. 
 > I will slowly be migrating / replacing the old images of the real world builds / circuitry with the ones captured with the new setup. 
-> Stay tuned for updates / visual changes to the images. no actual technical details changing.   
+> Stay tuned for updates / visual changes to the images. no actual technical details changing.   I will upload new images and videos sometime.
 
 # TC-Project-Abstraction
 
