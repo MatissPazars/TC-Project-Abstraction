@@ -15,7 +15,7 @@ Everything we need to make an computer is right here in this image.
    
 ## HOW MUCH OF ELECTRICAL ENGINEERING DO I NEED TO KNOW TO READ THIS?
 Literally just 2 things: 1. Electrons, like humans, are lazy - they prefer low resistence. 2. Electricity only flows if the circuit is complete, i.e.  + is connected to -. otherwise, nothing happens. 
-
+   
 
 ## LAYER I.
 
